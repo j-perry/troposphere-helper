@@ -1,4 +1,5 @@
 # pip install -r requirements.txt
 # https://medium.com/@boscacci/why-and-how-to-make-a-requirements-txt-f329c685181e
 
-troposphere==2.4.5
+troposphere==2.6.0
+awacs==0.9.8
