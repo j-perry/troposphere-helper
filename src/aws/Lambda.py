@@ -10,7 +10,7 @@ class Lambda(object):
         self.t = Template()
 
     @staticmethod
-    def create_lambda(self, handler, runtime, memory_size, timeout):
+    def create(self, handler, runtime, memory_size, timeout):
         self.t = Template()
         self.t.set_version("2010-09-09")
 
