@@ -14,12 +14,12 @@ class Lambda(object):
         self.t = Template()
         self.t.set_version("2010-09-09")
 
-    def add_memory(self):
+    def set_memory_size(self):
         self.t
 
     def set_timeout(self):
         self.t
 
-    def lambda_execution_role(self):
+    def set_lambda_execution_role(self):
         self.t
 
